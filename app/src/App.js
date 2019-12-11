@@ -1,10 +1,14 @@
 import React from 'react';
 import './App.css';
 
+// Components
+import TodoList from './components/TodoList';
+
 function App() {
   return (
     <div className="App">
-      <h1>Reducer-Todo</h1>
+      <h1>To-Do List</h1>
+      <TodoList />
     </div>
   );
 }
