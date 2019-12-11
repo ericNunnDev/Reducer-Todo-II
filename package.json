@@ -1,0 +1,8 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ericNunnDev/Reducer-Todo-II.git",
+  "author": "Eric Nunn",
+  "license": "MIT"
+}
